@@ -1,0 +1,7 @@
+.logodoc2{
+    display: flex;
+    justify-content: space-around
+}
+.znanylekar,.znamylekar, .doctoralia,.MioDottore,.DoktorTakvimi{
+color: #747474;
+}

@@ -1,0 +1,17 @@
+/* h6,h3{color: white} */
+
+.pat{
+    border-radius:1%;
+    background-color: #00ccb1;
+        border: 2px solid #00ccb1;
+        border-radius: 25px;
+        background: #00ccb1;
+        color: white;
+        overflow: hidden;
+        /* margin-bottom: 20%; */
+
+}
+
+ul{
+    margin-top: 5% !important
+}

@@ -1,0 +1,18 @@
+/* h6,h3{color: white} */
+
+.doc{
+    border-radius:1%;
+    background-color: #00ccb1;
+        border: 2px solid #3d83df;
+        border-radius: 25px;
+        background: #3d83df;
+        color: white;
+      
+        overflow: hidden;
+        margin-bottom: 20%
+
+}
+/* Doctorcard.img{    margin-left: 40%;} */
+ul{
+    margin-top: 5% !important
+}
